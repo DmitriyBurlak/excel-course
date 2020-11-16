@@ -1,0 +1,26 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyBurlak/excel-course.git"
+  },
+  "author": "Dmitriy Burlak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyBurlak/excel-course/issues"
+  },
+  "homepage": "https://github.com/DmitriyBurlak/excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
